@@ -1,11 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaurierCS/.github/main/profile/assets/logos/LCS_Logo_Long_White_SVG.svg">
-  <img src="https://raw.githubusercontent.com/LaurierCS/.github/main/profile/assets/logos/LCS_Logo_Long_Black_SVG.svg" alt="Laurier Computing Society" width="60%">
-</picture>
-
-<img src="https://raw.githubusercontent.com/LaurierCS/.github/main/profile/assets/LinkedIn_Banner.webp" alt="Laurier Computing Society banner" width="100%">
+<img src="https://raw.githubusercontent.com/LaurierCS/.github/refs/heads/main/profile/assets/logos/Rubric_Banner.png" alt="Laurier Computing Society banner" width="100%">
 
 <p style="font-size:1.05em;line-height:2.2;margin:0">
   <a href="https://lauriercs.org" style="color:#268AF9;font-weight:700;text-decoration:none">Website</a>
